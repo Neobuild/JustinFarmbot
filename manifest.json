@@ -1,9 +1,9 @@
 {
-     "package": "farmbot",
+     "package": "Justin farmbot",
      "language": "python",
-     "author": "Sylvain Vaugon & Ciarán Hagen",
-     "description": "Automate farmbot processes",
-     "version": "1.6.1",
+     "author": "Sylvain Vaugon & Ciarán Hagen & Justin Vinandy",
+     "description": "Testing main program",
+     "version": "1.0",
      "min_os_version_major": 6,
      "url": "https://raw.githubusercontent.com/Neobuild/JustinFarmbot/master/manifest.json",
      "zip": "https://github.com/Neobuild/JustinFarmbot/archive/master.zip",
