@@ -8,6 +8,6 @@
      "url": "https://raw.githubusercontent.com/Neobuild/JustinFarmbot/master/manifest.json",
      "zip": "https://github.com/Neobuild/JustinFarmbot/archive/master.zip",
      "executable": "python",
-     "args": ["farmbot-master/launch.py"],
+     "args": ["JustinFarmbot-master/launch.py"],
      "config": []
 }
