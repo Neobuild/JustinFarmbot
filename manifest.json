@@ -1,9 +1,9 @@
 {
      "package": "JustinFarmbot",
      "language": "python",
-     "author": "Sylvain Vaugon & Ciarán Hagen & Justin Vinandy",
+     "author": "Justin Vinandy",
      "description": "Testing main program",
-     "version": "1.0",
+     "version": "1.9.0",
      "min_os_version_major": 6,
      "url": "https://raw.githubusercontent.com/Neobuild/JustinFarmbot/master/manifest.json",
      "zip": "https://github.com/Neobuild/JustinFarmbot/archive/master.zip",
